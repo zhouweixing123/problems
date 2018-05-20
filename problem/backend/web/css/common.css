@@ -1,0 +1,62 @@
+.c_g_border{
+    border-radius: 10px;!important;
+    margin-bottom: 30px;!important;
+}
+.a_a2d200{
+    background-color: #a2d200;!important;
+}
+.a_e74c3c{
+    background-color: #e74c3c;!important;
+}
+.a_008DE7{
+    background-color: #008DE7;!important;
+}
+.a_fff{
+    background-color: #fff;!important;
+}
+.fontSize-20{
+    font-size: 20px;
+}
+.left_15{
+    margin-left: 15px;
+}
+.mouse{
+    cursor: pointer;
+}
+
+
+.hidden{
+    display: none;
+}
+.color_red {
+    color: red !important;
+}
+.color_green{
+    color: green !important;
+}
+.img{
+    width: 100px;!important;
+}
+.width_50{
+    display: inline-block;!important;
+    width: 100px;!important;
+    margin: 0;!important;
+    padding: 0;!important;
+}
+.nowraps{
+    text-overflow: ellipsis; /* for IE */!important;
+    -moz-text-overflow: ellipsis; /* for Firefox,mozilla */!important;
+    overflow: hidden;!important;
+    white-space: nowrap;!important;
+    text-align: left; !important;
+}
+.width-100{
+    width: 0;!important;
+     width: 150px;!important;
+ }
+table tr td a{
+    background-color: #f3faff;!important;
+}
+table tr:nth-of-type(2n+2) td a{
+    background-color: #fff;
+}
